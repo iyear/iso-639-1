@@ -1,6 +1,8 @@
 ## Compared to the original repo
 
-ADD `zh-tw` 繁體中文
+Add `zh-tw` 繁體中文
+
+Change `zh` to `zh-cn`
 
 ## ISO 639-1
 
