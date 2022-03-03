@@ -1,4 +1,8 @@
-# ISO 639-1
+## Compared to the original repo
+
+ADD `zh-tw` 繁體中文
+
+## ISO 639-1
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/emvi/iso-639-1?status.svg)](https://pkg.go.dev/github.com/emvi/iso-639-1?status)
 [![CircleCI](https://circleci.com/gh/emvi/iso-639-1.svg?style=svg)](https://circleci.com/gh/emvi/iso-639-1)
@@ -9,13 +13,13 @@ List of all ISO 639-1 language names, native names and two character codes as we
 The lists of all names and codes (`Codes`, `Names`, `NativeNames`, `Languages`) are build in the init function for quick read access. 
 For full documentation please read the Godocs.
 
-## Installation
+### Installation
 
 ```
 go get github.com/emvi/iso-639-1
 ```
 
-## Example
+### Example
 
 ```
 fmt.Println(iso6391.Codes)          // print all codes
