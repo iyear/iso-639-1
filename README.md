@@ -6,10 +6,8 @@ Change `zh` to `zh-cn`
 
 ## ISO 639-1
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/emvi/iso-639-1?status.svg)](https://pkg.go.dev/github.com/emvi/iso-639-1?status)
-[![CircleCI](https://circleci.com/gh/emvi/iso-639-1.svg?style=svg)](https://circleci.com/gh/emvi/iso-639-1)
-[![Go Report Card](https://goreportcard.com/badge/github.com/emvi/iso-639-1)](https://goreportcard.com/report/github.com/emvi/iso-639-1)
-<a href="https://discord.gg/fAYm4Cz"><img src="https://img.shields.io/discord/739184135649886288?logo=discord" alt="Chat on Discord"></a>
+[![Go Reference](https://pkg.go.dev/badge/github.com/emvi/iso-639-1?status.svg)](https://pkg.go.dev/github.com/iyear/iso-639-1?status)
+[![Go Report Card](https://goreportcard.com/badge/github.com/emvi/iso-639-1)](https://goreportcard.com/report/github.com/iyear/iso-639-1)
 
 List of all ISO 639-1 language names, native names and two character codes as well as functions for convenient access.
 The lists of all names and codes (`Codes`, `Names`, `NativeNames`, `Languages`) are build in the init function for quick read access. 
@@ -18,7 +16,7 @@ For full documentation please read the Godocs.
 ### Installation
 
 ```
-go get github.com/emvi/iso-639-1
+go get github.com/iyear/iso-639-1
 ```
 
 ### Example
